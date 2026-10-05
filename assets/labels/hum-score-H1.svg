@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640" width="520" height="640">
+  <defs>
+    <style>
+      @font-face{font-family:'Bricolage';src:url('file:///mnt/skills/examples/canvas-design/canvas-fonts/BricolageGrotesque-Bold.ttf');}
+      @font-face{font-family:'Instrument';src:url('file:///mnt/skills/examples/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf');}
+      @font-face{font-family:'Instrument';src:url('file:///mnt/skills/examples/canvas-design/canvas-fonts/InstrumentSans-Bold.ttf');font-weight:700;}
+      @font-face{font-family:'Geist';src:url('file:///mnt/skills/examples/canvas-design/canvas-fonts/GeistMono-Bold.ttf');font-weight:700;}
+    </style>
+  </defs>
+  <rect x="8" y="8" width="504" height="624" rx="44" fill="#FFFFFF" stroke="#E6E1D7" stroke-width="2"/>
+  <text x="260" y="70" text-anchor="middle" font-family="Geist" font-weight="700" font-size="19" letter-spacing="5" fill="#6E655A">HUM SCORE</text>
+  <rect x="120" y="104" width="280" height="200" rx="34" fill="#2E6F4E"/>
+  <text x="260" y="238" text-anchor="middle" font-family="Bricolage" font-weight="700" font-size="128" fill="#FFFFFF">H1</text>
+  <text x="260" y="282" text-anchor="middle" font-family="Geist" font-weight="700" font-size="22" letter-spacing="2" fill="#FFFFFF" opacity="0.92">100 %</text>
+  <text x="260" y="398" text-anchor="middle" font-family="Instrument" font-weight="700" font-size="34" fill="#241F1A">Humain intégral</text>
+  <text x="260" y="452" text-anchor="middle" font-family="Geist" font-weight="700" font-size="15" letter-spacing="3" fill="#6E655A">PART HUMAINE</text>
+  <circle cx="176" cy="470" r="13" fill="#241F1A"/><circle cx="220" cy="470" r="13" fill="#241F1A"/><circle cx="264" cy="470" r="13" fill="#241F1A"/><circle cx="308" cy="470" r="13" fill="#241F1A"/><circle cx="352" cy="470" r="13" fill="#241F1A"/>
+  <text x="260" y="560" text-anchor="middle" font-family="Geist" font-weight="700" font-size="16" letter-spacing="2" fill="#241F1A">HUM SCORE™</text>
+  <text x="260" y="588" text-anchor="middle" font-family="Instrument" font-size="17" fill="#6E655A">ia4africa.org</text>
+</svg>
